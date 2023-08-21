@@ -1,6 +1,6 @@
 # DevOps 01 - Four Months Crash Course Homework Repository
 
-Hello, and welcome to my DevOps Crash Course homework repository! Over the next four months, I'll be diving deep into the world of DevOps, exploring a range of technologies and concepts that are essential in today's tech landscape. As a seasoned professional, I'm excited about this opportunity to refresh my knowledge and explore current best practices.
+Hello, and welcome to my [DevOps 01 Crash Course](https://devops01ua.github.io/) homework repository! Over the next four months, I'll be diving deep into the world of DevOps, exploring a range of technologies and concepts that are essential in today's tech landscape. As a seasoned professional, I'm excited about this opportunity to refresh my knowledge and explore current best practices.
 
 I'm a member of Squad Charlie, and this repository will serve as a collection of my homework, assignments, and projects throughout the course.
 
